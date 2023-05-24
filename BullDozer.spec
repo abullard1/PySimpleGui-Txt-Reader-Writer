@@ -5,10 +5,10 @@ block_cipher = None
 
 
 a = Analysis(
-    ['C:\\Users\\IOSna\\PycharmProjects\\pythonProject5\\BullDozer.py'],
+    ['[Path to .py script]'],
     pathex=[],
     binaries=[],
-    datas=[('C:\\Users\\IOSna\\PycharmProjects\\pythonProject5\\OC.png', '.')],
+    datas=[('[Your Path]\\OC.png', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
